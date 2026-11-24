@@ -1,0 +1,4 @@
+source_id,provider,captured_on,record_version,review_state,derived_from
+S-1,catalogue-a,2025-02-01,v1,verified,
+S-2,catalogue-b,2025-03-01,v2,review,
+S-3,catalogue-c,2025-04-01,v1,uncertain,S-1

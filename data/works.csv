@@ -1,0 +1,4 @@
+work_id,artist_id,title,attribution,medium,width_cm,height_cm,created_from,created_to
+W-1,A-1,戏台,secure,ink,34,50,1935,1940
+W-2,A-1,人物稿,review,ink,30,42,1938,1942
+W-3,A-2,舞台,secure,oil,60,80,1930,1936
